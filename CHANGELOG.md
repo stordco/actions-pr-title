@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.0](https://github.com/stordco/actions-pr-title/compare/actions-pr-title-v1.0.0...actions-pr-title-v1.0.0) (2022-08-26)
+
+
+### Bug Fixes
+
+* don't set a component name for the release ([#5](https://github.com/stordco/actions-pr-title/issues/5)) ([caf31db](https://github.com/stordco/actions-pr-title/commit/caf31db0174af02059f62d57fd40c6743558703a))
+
 ## 1.0.0 (2022-08-26)
 
 
